@@ -1,5 +1,7 @@
 ﻿# Winter 25-26 - FPGA Lab Files Archive 
 
+![Demo](demo.gif)
+
 ## Summary
 - `.v` files: 102
 - `.mpf` files: 15
