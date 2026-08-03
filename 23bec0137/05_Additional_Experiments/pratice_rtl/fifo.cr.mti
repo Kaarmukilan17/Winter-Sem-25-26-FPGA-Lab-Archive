@@ -1,0 +1,35 @@
+{E:/r4lR9lC#e4/THIRD YEAR/6TH SEM/fpga/pratice_rtl/tb_fifo.v} {1 {vlog -work work -stats=none {E:/r4lR9lC#e4/THIRD YEAR/6TH SEM/fpga/pratice_rtl/tb_fifo.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb_fifo
+
+Top level modules:
+	tb_fifo
+
+} {} {}} {E:/r4lR9lC#e4/THIRD YEAR/6TH SEM/fpga/pratice_rtl/fifo_syn.v} {1 {vlog -work work -stats=none {E:/r4lR9lC#e4/THIRD YEAR/6TH SEM/fpga/pratice_rtl/fifo_syn.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module fifo_cntr
+-- Compiling module fifo_a_fefifo
+-- Compiling module fifo_altsyncram
+-- Compiling module fifo_cntr1
+-- Compiling module fifo_a_dpfifo
+-- Compiling module fifo_scfifo
+-- Compiling module fifo
+
+Top level modules:
+	fifo
+
+} {} {}} {E:/r4lR9lC#e4/THIRD YEAR/6TH SEM/fpga/pratice_rtl/fifo_bb.v} {1 {vlog -work work -stats=none {E:/r4lR9lC#e4/THIRD YEAR/6TH SEM/fpga/pratice_rtl/fifo_bb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module fifo
+
+Top level modules:
+	fifo
+
+} {} {}} {E:/r4lR9lC#e4/THIRD YEAR/6TH SEM/fpga/pratice_rtl/fifo.v} {1 {vlog -work work -stats=none {E:/r4lR9lC#e4/THIRD YEAR/6TH SEM/fpga/pratice_rtl/fifo.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module fifo
+
+Top level modules:
+	fifo
+
+} {} {}}

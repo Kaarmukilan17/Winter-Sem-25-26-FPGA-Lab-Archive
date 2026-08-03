@@ -1,0 +1,37 @@
+
+//part-2
+
+module tb_copy;
+
+reg clk;
+reg en;
+reg [3:0] addr;
+wire [7:0] dataout;
+
+integer fout;
+integer i;
+
+simple_ram DUT(clk, en, addr, dataout);
+
+always #5 clk = ~clk;
+
+initial begin
+    clk = 0;
+    en  = 0;
+
+ 
+
+    $readmemh("file1.mem", DUT.mem);
+
+    fout = $fopen("file2.mem", "w");
+
+    for (i = 0; i < 16; i = i + 1) begin
+        $fdisplay(fout, "%h", DUT.mem[i]);
+    end
+
+    $fclose(fout);
+
+    $finish;
+end
+
+endmodule

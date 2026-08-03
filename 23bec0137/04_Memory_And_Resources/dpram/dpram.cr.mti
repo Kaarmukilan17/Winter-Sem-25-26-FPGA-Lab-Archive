@@ -1,0 +1,9 @@
+D:/23bec0137/dpram/dpram.v {1 {vlog -work work -stats=none D:/23bec0137/dpram/dpram.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module dpram
+-- Compiling module dpram_tb
+
+Top level modules:
+	dpram_tb
+
+} {} {}}

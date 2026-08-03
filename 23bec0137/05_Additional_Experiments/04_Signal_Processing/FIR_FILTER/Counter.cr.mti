@@ -1,0 +1,17 @@
+D:/23bec0137/FIR_FILTER/Counter_up.v {1 {vlog -work work -stats=none D:/23bec0137/FIR_FILTER/Counter_up.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module counter_up
+-- Compiling module tb_counter
+
+Top level modules:
+	tb_counter
+
+} {} {}} D:/23bec0137/FIR_FILTER/down.v {1 {vlog -work work -stats=none D:/23bec0137/FIR_FILTER/down.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module counter_down
+-- Compiling module tb_counter_down
+
+Top level modules:
+	tb_counter_down
+
+} {} {}}

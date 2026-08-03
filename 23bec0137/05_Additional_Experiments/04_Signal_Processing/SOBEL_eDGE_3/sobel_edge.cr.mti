@@ -1,0 +1,155 @@
+D:/23bec0137/SOBEL_eDGE_3/jkfff_tb.v {1 {vlog -work work -stats=none D:/23bec0137/SOBEL_eDGE_3/jkfff_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module jkfff_tb
+
+Top level modules:
+	jkfff_tb
+
+} {} {}} D:/23bec0137/SOBEL_eDGE_3/pipo_tb.v {1 {vlog -work work -stats=none D:/23bec0137/SOBEL_eDGE_3/pipo_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module pipo_tb
+
+Top level modules:
+	pipo_tb
+
+} {} {}} D:/23bec0137/SOBEL_eDGE_3/sisojtb.v {1 {vlog -work work -stats=none D:/23bec0137/SOBEL_eDGE_3/sisojtb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module sisojtb
+
+Top level modules:
+	sisojtb
+
+} {} {}} D:/23bec0137/SOBEL_eDGE_3/jkff_tb.v {1 {vlog -work work -stats=none D:/23bec0137/SOBEL_eDGE_3/jkff_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module jkff_tb
+
+Top level modules:
+	jkff_tb
+
+} {} {}} D:/23bec0137/SOBEL_eDGE_3/siso.v {1 {vlog -work work -stats=none D:/23bec0137/SOBEL_eDGE_3/siso.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module siso
+
+Top level modules:
+	siso
+
+} {} {}} D:/23bec0137/SOBEL_eDGE_3/sipoo_tb.v {1 {vlog -work work -stats=none D:/23bec0137/SOBEL_eDGE_3/sipoo_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+
+} {} {}} D:/23bec0137/SOBEL_eDGE_3/piso_tb.v {1 {vlog -work work -stats=none D:/23bec0137/SOBEL_eDGE_3/piso_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module piso_tb
+
+Top level modules:
+	piso_tb
+
+} {} {}} D:/23bec0137/SOBEL_eDGE_3/tff.v {1 {vlog -work work -stats=none D:/23bec0137/SOBEL_eDGE_3/tff.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tff
+
+Top level modules:
+	tff
+
+} {} {}} D:/23bec0137/SOBEL_eDGE_3/dff.v {1 {vlog -work work -stats=none D:/23bec0137/SOBEL_eDGE_3/dff.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module dff
+
+Top level modules:
+	dff
+
+} {} {}} D:/23bec0137/SOBEL_eDGE_3/sipo_tb.v {1 {vlog -work work -stats=none D:/23bec0137/SOBEL_eDGE_3/sipo_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+
+} {} {}} D:/23bec0137/SOBEL_eDGE_3/jkff.v {1 {vlog -work work -stats=none D:/23bec0137/SOBEL_eDGE_3/jkff.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module jkff
+
+Top level modules:
+	jkff
+
+} {} {}} D:/23bec0137/SOBEL_eDGE_3/siso_tb.v {1 {vlog -work work -stats=none D:/23bec0137/SOBEL_eDGE_3/siso_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module siso_tb
+
+Top level modules:
+	siso_tb
+
+} {} {}} D:/23bec0137/SOBEL_eDGE_3/piso.v {1 {vlog -work work -stats=none D:/23bec0137/SOBEL_eDGE_3/piso.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module piso
+
+Top level modules:
+	piso
+
+} {} {}} D:/23bec0137/SOBEL_eDGE_3/sipo.v {1 {vlog -work work -stats=none D:/23bec0137/SOBEL_eDGE_3/sipo.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module sipo
+
+Top level modules:
+	sipo
+
+} {} {}} D:/23bec0137/SOBEL_eDGE_3/sisojtb_tb.v {1 {vlog -work work -stats=none D:/23bec0137/SOBEL_eDGE_3/sisojtb_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module sisojtb_tb
+
+Top level modules:
+	sisojtb_tb
+
+} {} {}} D:/23bec0137/SOBEL_eDGE_3/dff_tb.v {1 {vlog -work work -stats=none D:/23bec0137/SOBEL_eDGE_3/dff_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module dff_tb
+
+Top level modules:
+	dff_tb
+
+} {} {}} D:/23bec0137/SOBEL_eDGE_3/tff_tb.v {1 {vlog -work work -stats=none D:/23bec0137/SOBEL_eDGE_3/tff_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_tff
+
+Top level modules:
+	tb_tff
+
+} {} {}} D:/23bec0137/SOBEL_eDGE_3/srff_tb.v {1 {vlog -work work -stats=none D:/23bec0137/SOBEL_eDGE_3/srff_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module srff_tb
+
+Top level modules:
+	srff_tb
+
+} {} {}} D:/23bec0137/SOBEL_eDGE_3/pipo.v {1 {vlog -work work -stats=none D:/23bec0137/SOBEL_eDGE_3/pipo.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module pipo
+
+Top level modules:
+	pipo
+
+} {} {}} D:/23bec0137/SOBEL_eDGE_3/pisojtb_tb.v {1 {vlog -work work -stats=none D:/23bec0137/SOBEL_eDGE_3/pisojtb_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module pisojtb_tb
+
+Top level modules:
+	pisojtb_tb
+
+} {} {}} D:/23bec0137/SOBEL_eDGE_3/srff.v {1 {vlog -work work -stats=none D:/23bec0137/SOBEL_eDGE_3/srff.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module srff
+
+Top level modules:
+	srff
+
+} {} {}} D:/23bec0137/SOBEL_eDGE_3/sobel_filter.v {1 {vlog -work work -stats=none D:/23bec0137/SOBEL_eDGE_3/sobel_filter.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module sobel_edge_detection
+-- Compiling module tb_sobel_edge_detection
+
+Top level modules:
+	tb_sobel_edge_detection
+
+} {} {}} D:/23bec0137/SOBEL_eDGE_3/pisojtb.v {1 {vlog -work work -stats=none D:/23bec0137/SOBEL_eDGE_3/pisojtb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module pisojtb
+
+Top level modules:
+	pisojtb
+
+} {} {}}

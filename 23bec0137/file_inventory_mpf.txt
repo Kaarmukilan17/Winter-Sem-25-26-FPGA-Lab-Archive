@@ -1,0 +1,16 @@
+﻿~\01_Basic_Digital_Logic\seq_multiplier.mpf
+~\02_Finite_State_Machines\fsm\mealy.mpf
+~\03_Display_Interfaces\lcd_display.mpf
+~\04_Signal_Processing\FIR_FILTER\Counter.mpf
+~\04_Signal_Processing\FIR_FILTER\fir_filter.mpf
+~\04_Signal_Processing\FIR_FILTER\fir_filter'.mpf
+~\04_Signal_Processing\SOBEL_eDGE_3\sobel_edge.mpf
+~\05_Memory_And_Resources\dp_ram_ip.mpf
+~\05_Memory_And_Resources\dpram\dpram.mpf
+~\05_Memory_And_Resources\SPRAM\spram.mpf
+~\06_Additional_Experiments\filehandling\file.mpf
+~\06_Additional_Experiments\hi\hi.mpf
+~\06_Additional_Experiments\pratice_rtl\fifo.mpf
+~\06_Additional_Experiments\pratice_rtl\SEQ_MUL.mpf
+~\06_Additional_Experiments\pratice_rtl\top.mpf
+

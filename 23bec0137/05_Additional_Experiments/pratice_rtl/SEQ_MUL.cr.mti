@@ -1,0 +1,9 @@
+{E:/r4lR9lC#e4/THIRD YEAR/6TH SEM/fpga/pratice_rtl/SEQ_MUL.v} {1 {vlog -work work -stats=none {E:/r4lR9lC#e4/THIRD YEAR/6TH SEM/fpga/pratice_rtl/SEQ_MUL.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module SEQ_MUL
+-- Compiling module tb_SEQ_MUL
+
+Top level modules:
+	tb_SEQ_MUL
+
+} {} {}}

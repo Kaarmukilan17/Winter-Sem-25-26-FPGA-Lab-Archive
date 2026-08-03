@@ -1,0 +1,15 @@
+{E:/r4lR9lC#e4/THIRD YEAR/6TH SEM/fpga/DA/docs/dp_ram_ip.v} {1 {vlog -work work -stats=none {E:/r4lR9lC#e4/THIRD YEAR/6TH SEM/fpga/DA/docs/dp_ram_ip.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module dp_ram_ip
+
+Top level modules:
+	dp_ram_ip
+
+} {} {}} {E:/r4lR9lC#e4/THIRD YEAR/6TH SEM/fpga/DA/docs/tb_dp_ram_ip.v} {1 {vlog -work work -stats=none {E:/r4lR9lC#e4/THIRD YEAR/6TH SEM/fpga/DA/docs/tb_dp_ram_ip.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb_dpram
+
+Top level modules:
+	tb_dpram
+
+} {} {}}
